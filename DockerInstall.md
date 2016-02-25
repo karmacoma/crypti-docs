@@ -38,8 +38,7 @@ To install and run the latest version of Crypti - Delegate and Developer Edition
 Download the latest docker image:
 
 ```
-curl -o docker_image.tar.gz http://cryptidownloads.lisk.io/docker_image.tar.gz
-zcat docker_image.tar.gz | docker load
+docker pull cryptichain/node
 ```
 
 Install the docker image (executed only once per installation):
