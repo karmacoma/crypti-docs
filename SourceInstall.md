@@ -14,7 +14,7 @@ sudo apt-get install curl build-essential python wget unzip
 ## 2. Install SQLite3
 
 ```
-curl -sL http://downloads.cryptichain.me/setup_sqlite3 | sudo -E bash -
+curl -sL http://cryptidownloads.lisk.io/setup_sqlite3 | sudo -E bash -
 sudo apt-get install -y sqlite3
 ```
 
@@ -76,7 +76,7 @@ This is a specialized version of Node.js used to execute dapps within a virtual 
 Download the Crypti Node archive:
 
 ```
-wget http://downloads.cryptichain.me/crypti-node.zip
+wget http://cryptidownloads.lisk.io/crypti-node.zip
 ```
 
 Unzip the archive:
@@ -98,7 +98,7 @@ nodejs/node -v
 Download the blockchain archive:
 
 ```
-wget http://downloads.cryptichain.me/blockchain.db.zip
+wget http://cryptidownloads.lisk.io/blockchain.db.zip
 ```
 
 Unzip the archive:

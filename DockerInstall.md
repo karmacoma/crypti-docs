@@ -27,7 +27,7 @@ Log onto your Ubuntu based server and enter the following commands:
 **NOTE:** The following is only applicable to: **Ubuntu 14.04 (LTS) - x86_64**.
 
 ```
-curl -sL http://downloads.cryptichain.me/setup_docker | sudo -E bash -
+curl -sL http://cryptidownloads.lisk.io/setup_docker | sudo -E bash -
 sudo apt-get install -y docker-engine
 ```
 
@@ -38,7 +38,7 @@ To install and run the latest version of Crypti - Delegate and Developer Edition
 Download the latest docker image:
 
 ```
-curl -o docker_image.tar.gz http://downloads.cryptichain.me/docker_image.tar.gz
+curl -o docker_image.tar.gz http://cryptidownloads.lisk.io/docker_image.tar.gz
 zcat docker_image.tar.gz | docker load
 ```
 
@@ -310,7 +310,7 @@ If you encounter an error while downloading the docker image, using the `docker 
 Please use the following alternative download method:
 
 ```
-curl -o docker_image.tar.gz http://downloads.cryptichain.me/docker_image.tar.gz
+curl -o docker_image.tar.gz http://cryptidownloads.lisk.io/docker_image.tar.gz
 zcat docker_image.tar.gz | docker load
 ```
 

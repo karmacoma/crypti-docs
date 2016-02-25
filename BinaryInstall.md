@@ -34,7 +34,7 @@ Follow the relevant download instructions for your selected platform as listed b
 1. Download the archive:
 
   ```
-  wget http://downloads.cryptichain.me/crypti-0.5.4-Linux-x86_64.zip
+  wget http://cryptidownloads.lisk.io/crypti-0.5.4-Linux-x86_64.zip
   ```
 
 2. Unzip the archive:
@@ -56,7 +56,7 @@ Follow the relevant download instructions for your selected platform as listed b
 1. Download the archive:
 
   ```
-  wget http://downloads.cryptichain.me/crypti-0.5.4-Linux-i686.zip
+  wget http://cryptidownloads.lisk.io/crypti-0.5.4-Linux-i686.zip
   ```
 
 2. Unzip the archive:
@@ -80,7 +80,7 @@ Tested devices: [Raspberry Pi 1 Model B+](https://www.raspberrypi.org/products/m
 1. Download the archive:
 
   ```
-  wget http://downloads.cryptichain.me/crypti-0.5.4-Linux-armv6l.zip
+  wget http://cryptidownloads.lisk.io/crypti-0.5.4-Linux-armv6l.zip
   ```
 
 2. Unzip the archive:
@@ -104,7 +104,7 @@ Tested devices: [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/ra
 1. Download the archive:
 
   ```
-  wget http://downloads.cryptichain.me/crypti-0.5.4-Linux-armv7l.zip
+  wget http://cryptidownloads.lisk.io/crypti-0.5.4-Linux-armv7l.zip
   ```
 
 2. Unzip the archive:
@@ -126,7 +126,7 @@ Tested devices: [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/ra
 1. Download the archive:
 
   ```
-  wget http://downloads.cryptichain.me/crypti-0.5.4-Darwin-x86_64.zip
+  wget http://cryptidownloads.lisk.io/crypti-0.5.4-Darwin-x86_64.zip
   ```
 
 2. Unzip the archive:
@@ -148,7 +148,7 @@ Tested devices: [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/ra
 1. Download the archive:
 
   ```
-  wget http://downloads.cryptichain.me/crypti-0.5.4-FreeBSD-amd64.zip
+  wget http://cryptidownloads.lisk.io/crypti-0.5.4-FreeBSD-amd64.zip
   ```
 
 2. Unzip the archive:
